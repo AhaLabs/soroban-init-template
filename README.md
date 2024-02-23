@@ -1,3 +1,5 @@
+_This repo has been archived. Please reference https://github.com/AhaLabs/soroban-astro-template instead._
+
 # Soroban Init Template
 
 This respository is used as a template for `soroban contract init`. The main project is a bare-bones
